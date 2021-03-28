@@ -6,6 +6,6 @@
 
 #### Below are links to some of the Documentation
 
-[Django](https://docs.djangoproject.com/en/3.1/)
-[GraphQL](https://graphql.org/learn/)
+[Django](https://docs.djangoproject.com/en/3.1/)  <br/>
+[GraphQL](https://graphql.org/learn/)   <br/>
 [Graphene Python](https://docs.graphene-python.org/projects/django/en/latest/)
